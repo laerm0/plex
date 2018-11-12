@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.30">
+  <GlyphOrder src="IBMPlexSans-SemiBoldItalic.GlyphOrder.ttx"/>
+  <head src="IBMPlexSans-SemiBoldItalic._h_e_a_d.ttx"/>
+  <hhea src="IBMPlexSans-SemiBoldItalic._h_h_e_a.ttx"/>
+  <maxp src="IBMPlexSans-SemiBoldItalic._m_a_x_p.ttx"/>
+  <OS_2 src="IBMPlexSans-SemiBoldItalic.O_S_2f_2.ttx"/>
+  <hmtx src="IBMPlexSans-SemiBoldItalic._h_m_t_x.ttx"/>
+  <cmap src="IBMPlexSans-SemiBoldItalic._c_m_a_p.ttx"/>
+  <fpgm src="IBMPlexSans-SemiBoldItalic._f_p_g_m.ttx"/>
+  <prep src="IBMPlexSans-SemiBoldItalic._p_r_e_p.ttx"/>
+  <cvt src="IBMPlexSans-SemiBoldItalic._c_v_t.ttx"/>
+  <loca src="IBMPlexSans-SemiBoldItalic._l_o_c_a.ttx"/>
+  <glyf src="IBMPlexSans-SemiBoldItalic._g_l_y_f.ttx"/>
+  <name src="IBMPlexSans-SemiBoldItalic._n_a_m_e.ttx"/>
+  <post src="IBMPlexSans-SemiBoldItalic._p_o_s_t.ttx"/>
+  <gasp src="IBMPlexSans-SemiBoldItalic._g_a_s_p.ttx"/>
+  <GDEF src="IBMPlexSans-SemiBoldItalic.G_D_E_F_.ttx"/>
+  <GPOS src="IBMPlexSans-SemiBoldItalic.G_P_O_S_.ttx"/>
+  <GSUB src="IBMPlexSans-SemiBoldItalic.G_S_U_B_.ttx"/>
+  <DSIG src="IBMPlexSans-SemiBoldItalic.D_S_I_G_.ttx"/>
+</ttFont>

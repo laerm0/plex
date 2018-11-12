@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.30">
+  <GlyphOrder src="IBMPlexThai-Regular.GlyphOrder.ttx"/>
+  <head src="IBMPlexThai-Regular._h_e_a_d.ttx"/>
+  <hhea src="IBMPlexThai-Regular._h_h_e_a.ttx"/>
+  <maxp src="IBMPlexThai-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="IBMPlexThai-Regular.O_S_2f_2.ttx"/>
+  <hmtx src="IBMPlexThai-Regular._h_m_t_x.ttx"/>
+  <cmap src="IBMPlexThai-Regular._c_m_a_p.ttx"/>
+  <fpgm src="IBMPlexThai-Regular._f_p_g_m.ttx"/>
+  <prep src="IBMPlexThai-Regular._p_r_e_p.ttx"/>
+  <cvt src="IBMPlexThai-Regular._c_v_t.ttx"/>
+  <loca src="IBMPlexThai-Regular._l_o_c_a.ttx"/>
+  <glyf src="IBMPlexThai-Regular._g_l_y_f.ttx"/>
+  <name src="IBMPlexThai-Regular._n_a_m_e.ttx"/>
+  <post src="IBMPlexThai-Regular._p_o_s_t.ttx"/>
+  <gasp src="IBMPlexThai-Regular._g_a_s_p.ttx"/>
+  <GDEF src="IBMPlexThai-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="IBMPlexThai-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="IBMPlexThai-Regular.G_S_U_B_.ttx"/>
+  <meta src="IBMPlexThai-Regular._m_e_t_a.ttx"/>
+  <DSIG src="IBMPlexThai-Regular.D_S_I_G_.ttx"/>
+</ttFont>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.30">
+  <GlyphOrder src="IBMPlexSans-Regular.GlyphOrder.ttx"/>
+  <head src="IBMPlexSans-Regular._h_e_a_d.ttx"/>
+  <hhea src="IBMPlexSans-Regular._h_h_e_a.ttx"/>
+  <maxp src="IBMPlexSans-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="IBMPlexSans-Regular.O_S_2f_2.ttx"/>
+  <hmtx src="IBMPlexSans-Regular._h_m_t_x.ttx"/>
+  <cmap src="IBMPlexSans-Regular._c_m_a_p.ttx"/>
+  <fpgm src="IBMPlexSans-Regular._f_p_g_m.ttx"/>
+  <prep src="IBMPlexSans-Regular._p_r_e_p.ttx"/>
+  <cvt src="IBMPlexSans-Regular._c_v_t.ttx"/>
+  <loca src="IBMPlexSans-Regular._l_o_c_a.ttx"/>
+  <glyf src="IBMPlexSans-Regular._g_l_y_f.ttx"/>
+  <name src="IBMPlexSans-Regular._n_a_m_e.ttx"/>
+  <post src="IBMPlexSans-Regular._p_o_s_t.ttx"/>
+  <gasp src="IBMPlexSans-Regular._g_a_s_p.ttx"/>
+  <GDEF src="IBMPlexSans-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="IBMPlexSans-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="IBMPlexSans-Regular.G_S_U_B_.ttx"/>
+  <DSIG src="IBMPlexSans-Regular.D_S_I_G_.ttx"/>
+</ttFont>

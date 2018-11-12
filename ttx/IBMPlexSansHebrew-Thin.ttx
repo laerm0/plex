@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.30">
+  <GlyphOrder src="IBMPlexSansHebrew-Thin.GlyphOrder.ttx"/>
+  <head src="IBMPlexSansHebrew-Thin._h_e_a_d.ttx"/>
+  <hhea src="IBMPlexSansHebrew-Thin._h_h_e_a.ttx"/>
+  <maxp src="IBMPlexSansHebrew-Thin._m_a_x_p.ttx"/>
+  <OS_2 src="IBMPlexSansHebrew-Thin.O_S_2f_2.ttx"/>
+  <hmtx src="IBMPlexSansHebrew-Thin._h_m_t_x.ttx"/>
+  <cmap src="IBMPlexSansHebrew-Thin._c_m_a_p.ttx"/>
+  <fpgm src="IBMPlexSansHebrew-Thin._f_p_g_m.ttx"/>
+  <prep src="IBMPlexSansHebrew-Thin._p_r_e_p.ttx"/>
+  <cvt src="IBMPlexSansHebrew-Thin._c_v_t.ttx"/>
+  <loca src="IBMPlexSansHebrew-Thin._l_o_c_a.ttx"/>
+  <glyf src="IBMPlexSansHebrew-Thin._g_l_y_f.ttx"/>
+  <name src="IBMPlexSansHebrew-Thin._n_a_m_e.ttx"/>
+  <post src="IBMPlexSansHebrew-Thin._p_o_s_t.ttx"/>
+  <gasp src="IBMPlexSansHebrew-Thin._g_a_s_p.ttx"/>
+  <GDEF src="IBMPlexSansHebrew-Thin.G_D_E_F_.ttx"/>
+  <GPOS src="IBMPlexSansHebrew-Thin.G_P_O_S_.ttx"/>
+  <GSUB src="IBMPlexSansHebrew-Thin.G_S_U_B_.ttx"/>
+  <DSIG src="IBMPlexSansHebrew-Thin.D_S_I_G_.ttx"/>
+</ttFont>

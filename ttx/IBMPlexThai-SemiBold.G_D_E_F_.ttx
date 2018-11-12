@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.30">
+
+  <GDEF>
+    <Version value="0x00010002"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="A" class="1"/>
+      <ClassDef glyph="AE" class="1"/>
+      <ClassDef glyph="B" class="1"/>
+      <ClassDef glyph="C" class="1"/>
+      <ClassDef glyph="D" class="1"/>
+      <ClassDef glyph="E" class="1"/>
+      <ClassDef glyph="F" class="1"/>
+      <ClassDef glyph="G" class="1"/>
+      <ClassDef glyph="H" class="1"/>
+      <ClassDef glyph="I" class="1"/>
+      <ClassDef glyph="J" class="1"/>
+      <ClassDef glyph="K" class="1"/>
+      <ClassDef glyph="L" class="1"/>
+      <ClassDef glyph="M" class="1"/>
+      <ClassDef glyph="N" class="1"/>
+      <ClassDef glyph="O" class="1"/>
+      <ClassDef glyph="Oslash" class="1"/>
+      <ClassDef glyph="P" class="1"/>
+      <ClassDef glyph="Q" class="1"/>
+      <ClassDef glyph="R" class="1"/>
+      <ClassDef glyph="S" class="1"/>
+      <ClassDef glyph="T" class="1"/>
+      <ClassDef glyph="U" class="1"/>
+      <ClassDef glyph="V" class="1"/>
+      <ClassDef glyph="W" class="1"/>
+      <ClassDef glyph="X" class="1"/>
+      <ClassDef glyph="Y" class="1"/>
+      <ClassDef glyph="Z" class="1"/>
+      <ClassDef glyph="a" class="1"/>
+      <ClassDef glyph="a.alt01" class="1"/>
+      <ClassDef glyph="ae" class="1"/>
+      <ClassDef glyph="b" class="1"/>
+      <ClassDef glyph="c" class="1"/>
+      <ClassDef glyph="d" class="1"/>
+      <ClassDef glyph="dotlessi" class="1"/>
+      <ClassDef glyph="e" class="1"/>
+      <ClassDef glyph="f" class="1"/>
+      <ClassDef glyph="fi" class="2"/>
+      <ClassDef glyph="fl" class="2"/>
+      <ClassDef glyph="g" class="1"/>
+      <ClassDef glyph="g.alt01" class="1"/>
+      <ClassDef glyph="g.alt02" class="1"/>
+      <ClassDef glyph="h" class="1"/>
+      <ClassDef glyph="i" class="1"/>
+      <ClassDef glyph="k" class="1"/>
+      <ClassDef glyph="l" class="1"/>
+      <ClassDef glyph="m" class="1"/>
+      <ClassDef glyph="n" class="1"/>
+      <ClassDef glyph="o" class="1"/>
+      <ClassDef glyph="oslash" class="1"/>
+      <ClassDef glyph="p" class="1"/>
+      <ClassDef glyph="q" class="1"/>
+      <ClassDef glyph="r" class="1"/>
+      <ClassDef glyph="s" class="1"/>
+      <ClassDef glyph="t" class="1"/>
+      <ClassDef glyph="u" class="1"/>
+      <ClassDef glyph="uni0237" class="1"/>
+      <ClassDef glyph="uni0303" class="3"/>
+      <ClassDef glyph="uni0331" class="3"/>
+      <ClassDef glyph="uni034F" class="3"/>
+      <ClassDef glyph="uni0E01" class="1"/>
+      <ClassDef glyph="uni0E02" class="1"/>
+      <ClassDef glyph="uni0E03" class="1"/>
+      <ClassDef glyph="uni0E04" class="1"/>
+      <ClassDef glyph="uni0E05" class="1"/>
+      <ClassDef glyph="uni0E06" class="1"/>
+      <ClassDef glyph="uni0E07" class="1"/>
+      <ClassDef glyph="uni0E070331" class="1"/>
+      <ClassDef glyph="uni0E08" class="1"/>
+      <ClassDef glyph="uni0E09" class="1"/>
+      <ClassDef glyph="uni0E0A" class="1"/>
+      <ClassDef glyph="uni0E0B" class="1"/>
+      <ClassDef glyph="uni0E0C" class="1"/>
+      <ClassDef glyph="uni0E0D" class="1"/>
+      <ClassDef glyph="uni0E0D.less" class="1"/>
+      <ClassDef glyph="uni0E0D0331" class="1"/>
+      <ClassDef glyph="uni0E0E" class="1"/>
+      <ClassDef glyph="uni0E0E.short" class="1"/>
+      <ClassDef glyph="uni0E0F" class="1"/>
+      <ClassDef glyph="uni0E0F.short" class="1"/>
+      <ClassDef glyph="uni0E10" class="1"/>
+      <ClassDef glyph="uni0E10.less" class="1"/>
+      <ClassDef glyph="uni0E11" class="1"/>
+      <ClassDef glyph="uni0E12" class="1"/>
+      <ClassDef glyph="uni0E13" class="1"/>
+      <ClassDef glyph="uni0E14" class="1"/>
+      <ClassDef glyph="uni0E15" class="1"/>
+      <ClassDef glyph="uni0E16" class="1"/>
+      <ClassDef glyph="uni0E17" class="1"/>
+      <ClassDef glyph="uni0E18" class="1"/>
+      <ClassDef glyph="uni0E19" class="1"/>
+      <ClassDef glyph="uni0E190331" class="1"/>
+      <ClassDef glyph="uni0E1A" class="1"/>
+      <ClassDef glyph="uni0E1B" class="1"/>
+      <ClassDef glyph="uni0E1C" class="1"/>
+      <ClassDef glyph="uni0E1D" class="1"/>
+      <ClassDef glyph="uni0E1E" class="1"/>
+      <ClassDef glyph="uni0E1F" class="1"/>
+      <ClassDef glyph="uni0E20" class="1"/>
+      <ClassDef glyph="uni0E21" class="1"/>
+      <ClassDef glyph="uni0E210331" class="1"/>
+      <ClassDef glyph="uni0E22" class="1"/>
+      <ClassDef glyph="uni0E23" class="1"/>
+      <ClassDef glyph="uni0E24" class="1"/>
+      <ClassDef glyph="uni0E240E45" class="1"/>
+      <ClassDef glyph="uni0E25" class="1"/>
+      <ClassDef glyph="uni0E26" class="1"/>
+      <ClassDef glyph="uni0E260E45" class="1"/>
+      <ClassDef glyph="uni0E27" class="1"/>
+      <ClassDef glyph="uni0E28" class="1"/>
+      <ClassDef glyph="uni0E29" class="1"/>
+      <ClassDef glyph="uni0E2A" class="1"/>
+      <ClassDef glyph="uni0E2B" class="1"/>
+      <ClassDef glyph="uni0E2C" class="1"/>
+      <ClassDef glyph="uni0E2C.short" class="1"/>
+      <ClassDef glyph="uni0E2D" class="1"/>
+      <ClassDef glyph="uni0E2E" class="1"/>
+      <ClassDef glyph="uni0E31" class="3"/>
+      <ClassDef glyph="uni0E31.narrow" class="3"/>
+      <ClassDef glyph="uni0E310E47" class="3"/>
+      <ClassDef glyph="uni0E310E4A" class="3"/>
+      <ClassDef glyph="uni0E32" class="1"/>
+      <ClassDef glyph="uni0E33" class="1"/>
+      <ClassDef glyph="uni0E34" class="3"/>
+      <ClassDef glyph="uni0E34.narrow" class="3"/>
+      <ClassDef glyph="uni0E35" class="3"/>
+      <ClassDef glyph="uni0E35.narrow" class="3"/>
+      <ClassDef glyph="uni0E36" class="3"/>
+      <ClassDef glyph="uni0E36.narrow" class="3"/>
+      <ClassDef glyph="uni0E37" class="3"/>
+      <ClassDef glyph="uni0E37.narrow" class="3"/>
+      <ClassDef glyph="uni0E38" class="3"/>
+      <ClassDef glyph="uni0E39" class="3"/>
+      <ClassDef glyph="uni0E3A" class="3"/>
+      <ClassDef glyph="uni0E40" class="1"/>
+      <ClassDef glyph="uni0E41" class="1"/>
+      <ClassDef glyph="uni0E42" class="1"/>
+      <ClassDef glyph="uni0E45" class="1"/>
+      <ClassDef glyph="uni0E47" class="3"/>
+      <ClassDef glyph="uni0E47.narrow" class="3"/>
+      <ClassDef glyph="uni0E47.small" class="3"/>
+      <ClassDef glyph="uni0E48" class="3"/>
+      <ClassDef glyph="uni0E48.narrow" class="3"/>
+      <ClassDef glyph="uni0E48.small" class="3"/>
+      <ClassDef glyph="uni0E49" class="3"/>
+      <ClassDef glyph="uni0E49.narrow" class="3"/>
+      <ClassDef glyph="uni0E49.small" class="3"/>
+      <ClassDef glyph="uni0E4A" class="3"/>
+      <ClassDef glyph="uni0E4A.narrow" class="3"/>
+      <ClassDef glyph="uni0E4A.small" class="3"/>
+      <ClassDef glyph="uni0E4B" class="3"/>
+      <ClassDef glyph="uni0E4B.narrow" class="3"/>
+      <ClassDef glyph="uni0E4B.small" class="3"/>
+      <ClassDef glyph="uni0E4C" class="3"/>
+      <ClassDef glyph="uni0E4C.narrow" class="3"/>
+      <ClassDef glyph="uni0E4C.small" class="3"/>
+      <ClassDef glyph="uni0E4D" class="3"/>
+      <ClassDef glyph="uni0E4D.narrow" class="3"/>
+      <ClassDef glyph="uni0E4D.small" class="3"/>
+      <ClassDef glyph="uni0E4E" class="3"/>
+      <ClassDef glyph="uni0E4E.narrow" class="3"/>
+      <ClassDef glyph="uni25CC" class="1"/>
+      <ClassDef glyph="uniEC07" class="3"/>
+      <ClassDef glyph="uniEC08" class="3"/>
+      <ClassDef glyph="v" class="1"/>
+      <ClassDef glyph="w" class="1"/>
+      <ClassDef glyph="x" class="1"/>
+      <ClassDef glyph="y" class="1"/>
+      <ClassDef glyph="z" class="1"/>
+    </GlyphClassDef>
+    <MarkAttachClassDef Format="2">
+      <ClassDef glyph="uni0331" class="1"/>
+      <ClassDef glyph="uni0E31" class="2"/>
+      <ClassDef glyph="uni0E31.narrow" class="2"/>
+      <ClassDef glyph="uni0E310E47" class="2"/>
+      <ClassDef glyph="uni0E310E4A" class="2"/>
+      <ClassDef glyph="uni0E34" class="2"/>
+      <ClassDef glyph="uni0E34.narrow" class="2"/>
+      <ClassDef glyph="uni0E35" class="2"/>
+      <ClassDef glyph="uni0E35.narrow" class="2"/>
+      <ClassDef glyph="uni0E36" class="2"/>
+      <ClassDef glyph="uni0E36.narrow" class="2"/>
+      <ClassDef glyph="uni0E37" class="2"/>
+      <ClassDef glyph="uni0E37.narrow" class="2"/>
+      <ClassDef glyph="uni0E38" class="1"/>
+      <ClassDef glyph="uni0E39" class="1"/>
+      <ClassDef glyph="uni0E3A" class="1"/>
+      <ClassDef glyph="uni0E47" class="2"/>
+      <ClassDef glyph="uni0E47.narrow" class="2"/>
+      <ClassDef glyph="uni0E47.small" class="2"/>
+      <ClassDef glyph="uni0E48" class="2"/>
+      <ClassDef glyph="uni0E48.narrow" class="2"/>
+      <ClassDef glyph="uni0E48.small" class="2"/>
+      <ClassDef glyph="uni0E49" class="2"/>
+      <ClassDef glyph="uni0E49.narrow" class="2"/>
+      <ClassDef glyph="uni0E49.small" class="2"/>
+      <ClassDef glyph="uni0E4A" class="2"/>
+      <ClassDef glyph="uni0E4A.narrow" class="2"/>
+      <ClassDef glyph="uni0E4A.small" class="2"/>
+      <ClassDef glyph="uni0E4B" class="2"/>
+      <ClassDef glyph="uni0E4B.narrow" class="2"/>
+      <ClassDef glyph="uni0E4B.small" class="2"/>
+      <ClassDef glyph="uni0E4C" class="2"/>
+      <ClassDef glyph="uni0E4C.narrow" class="2"/>
+      <ClassDef glyph="uni0E4C.small" class="2"/>
+      <ClassDef glyph="uni0E4D" class="2"/>
+      <ClassDef glyph="uni0E4D.narrow" class="2"/>
+      <ClassDef glyph="uni0E4D.small" class="2"/>
+      <ClassDef glyph="uni0E4E" class="2"/>
+      <ClassDef glyph="uni0E4E.narrow" class="2"/>
+    </MarkAttachClassDef>
+    <MarkGlyphSetsDef>
+      <MarkSetTableFormat value="1"/>
+      <!-- MarkSetCount=2 -->
+      <Coverage index="0" Format="2">
+        <Glyph value="uni0331"/>
+        <Glyph value="uni0E3A"/>
+        <Glyph value="uni0E38"/>
+        <Glyph value="uni0E39"/>
+      </Coverage>
+      <Coverage index="1" Format="2">
+        <Glyph value="uni0E48"/>
+        <Glyph value="uni0E34"/>
+        <Glyph value="uni0E4B"/>
+        <Glyph value="uni0E4D"/>
+        <Glyph value="uni0E35"/>
+        <Glyph value="uni0E37"/>
+        <Glyph value="uni0E31"/>
+        <Glyph value="uni0E4C"/>
+        <Glyph value="uni0E36"/>
+        <Glyph value="uni0E49"/>
+        <Glyph value="uni0E4A"/>
+        <Glyph value="uni0E47"/>
+        <Glyph value="uni0E4E"/>
+        <Glyph value="uni0E48.narrow"/>
+        <Glyph value="uni0E34.narrow"/>
+        <Glyph value="uni0E4B.narrow"/>
+        <Glyph value="uni0E4D.narrow"/>
+        <Glyph value="uni0E35.narrow"/>
+        <Glyph value="uni0E37.narrow"/>
+        <Glyph value="uni0E31.narrow"/>
+        <Glyph value="uni0E4C.narrow"/>
+        <Glyph value="uni0E36.narrow"/>
+        <Glyph value="uni0E49.narrow"/>
+        <Glyph value="uni0E47.narrow"/>
+        <Glyph value="uni0E4A.narrow"/>
+        <Glyph value="uni0E48.small"/>
+        <Glyph value="uni0E4B.small"/>
+        <Glyph value="uni0E4C.small"/>
+        <Glyph value="uni0E49.small"/>
+        <Glyph value="uni0E47.small"/>
+        <Glyph value="uni0E4A.small"/>
+      </Coverage>
+    </MarkGlyphSetsDef>
+  </GDEF>
+
+</ttFont>

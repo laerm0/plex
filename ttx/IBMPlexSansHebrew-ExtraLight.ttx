@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.30">
+  <GlyphOrder src="IBMPlexSansHebrew-ExtraLight.GlyphOrder.ttx"/>
+  <head src="IBMPlexSansHebrew-ExtraLight._h_e_a_d.ttx"/>
+  <hhea src="IBMPlexSansHebrew-ExtraLight._h_h_e_a.ttx"/>
+  <maxp src="IBMPlexSansHebrew-ExtraLight._m_a_x_p.ttx"/>
+  <OS_2 src="IBMPlexSansHebrew-ExtraLight.O_S_2f_2.ttx"/>
+  <hmtx src="IBMPlexSansHebrew-ExtraLight._h_m_t_x.ttx"/>
+  <cmap src="IBMPlexSansHebrew-ExtraLight._c_m_a_p.ttx"/>
+  <fpgm src="IBMPlexSansHebrew-ExtraLight._f_p_g_m.ttx"/>
+  <prep src="IBMPlexSansHebrew-ExtraLight._p_r_e_p.ttx"/>
+  <cvt src="IBMPlexSansHebrew-ExtraLight._c_v_t.ttx"/>
+  <loca src="IBMPlexSansHebrew-ExtraLight._l_o_c_a.ttx"/>
+  <glyf src="IBMPlexSansHebrew-ExtraLight._g_l_y_f.ttx"/>
+  <name src="IBMPlexSansHebrew-ExtraLight._n_a_m_e.ttx"/>
+  <post src="IBMPlexSansHebrew-ExtraLight._p_o_s_t.ttx"/>
+  <gasp src="IBMPlexSansHebrew-ExtraLight._g_a_s_p.ttx"/>
+  <GDEF src="IBMPlexSansHebrew-ExtraLight.G_D_E_F_.ttx"/>
+  <GPOS src="IBMPlexSansHebrew-ExtraLight.G_P_O_S_.ttx"/>
+  <GSUB src="IBMPlexSansHebrew-ExtraLight.G_S_U_B_.ttx"/>
+  <DSIG src="IBMPlexSansHebrew-ExtraLight.D_S_I_G_.ttx"/>
+</ttFont>
